@@ -35,7 +35,7 @@
 
 {
     "image_id": 105,
-    "image_catwgory": "Men clothing",
+    "image_category": "Men clothing",
     "image_url": "https://images.unsplash.com/photo-1593030761757-71fae45fa0e7?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "image_description": "A man in a tailored suit and dress shoes stands in an art gallery, exuding contemporary sophistication."
 
@@ -43,7 +43,7 @@
 
 {
     "image_id": 106,
-    "image_catwgory": "Men clothing",
+    "image_category": "Men clothing",
     "image_url": "https://images.unsplash.com/photo-1603251579431-8041402bdeda?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "image_description": "A man in a tailored coat and scarf stands on a city street, embracing winter fashion."
 
@@ -51,28 +51,28 @@
 
 {
     "image_id": 107,
-    "image_catwgory": "Men clothing",
+    "image_category": "Men clothing",
     "image_url": "https://images.unsplash.com/photo-1635510238766-246da0ec1c3e?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "image_description": "A man in a tailored blazer and jeans walks through a bustling city street, blending formal and casual styles"
 },
 
 {
     "image_id": 108,
-    "image_catwgory": "Men clothing",
+    "image_category": "Men clothing",
     "image_url": "https://images.unsplash.com/photo-1602810316693-3667c854239a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "image_description": "A man in a tailored suit and pocket square stands in a grand ballroom, epitomizing formal elegance."
 },
 
 {
     "image_id": 109,
-    "image_catwgory": "Men clothing",
+    "image_category": "Men clothing",
     "image_url": "https://images.unsplash.com/photo-1611312449412-6cefac5dc3e4?q=80&w=1292&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "image_description": "A rugged man in a leather jacket leans on a motorcycle, desert wind tousling his hair under a dramatic golden sunset."
 },
 
 {
     "image_id": 110,
-    "image_catwgory": "Men clothing",
+    "image_category": "Men clothing",
     "image_url": "https://images.unsplash.com/photo-1541840031508-326b77c9a17e?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "image_description": "A man in a tailored navy suit adjusts his cufflinks, standing confidently against a sleek, glass-covered city skyscraper background."
 },
@@ -86,40 +86,40 @@
 
 {
     "image_id": 112,
-    "image_catwgory": "Men clothing",
+    "image_category": "Men clothing",
     "image_url": "https://images.unsplash.com/photo-1743877428895-fd3aabd06528?q=80&w=1510&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "image_description": "A man in a casual denim jacket and sneakers lounges in a cozy café, epitomizing laid-back weekend style."
 },
 
 {
     "image_id": 113,
-    "image_catwgory": "Men clothing",
+    "image_category": "Men clothing",
     "image_url": "https://images.unsplash.com/photo-1669207261271-a0041d4b0948?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "image_description": "A man in a sleek black suit and polished shoes stands confidently in a modern office lobby, exuding professionalism."
 },
 
 {
     "image_id": 114,
-    "image_catwgory": "Men clothing",
+    "image_category": "Men clothing",
     "image_url": "https://images.unsplash.com/photo-1611312449952-4d3ca7468453?q=80&w=1527&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "image_description": "A man in a casual denim jacket and sneakers lounges in a cozy café, epitomizing laid-back weekend style."
 },
 
 {
     "image_id": 115,
-    "image_catwgory": "Men clothing",
+    "image_category": "Men clothing",
     "image_url": "https://images.unsplash.com/photo-1493455198445-863243d88564?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "image_description": "A man in a tailored suit and pocket square stands in a grand ballroom, epitomizing formal elegance."
 },
 {
     "image_id": 116,
-    "image_catwgory": "Men clothing",
+    "image_category": "Men clothing",
     "image_url": "https://images.unsplash.com/photo-1507707113652-f8a32c05046d?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "image_description": "A man in a casual denim jacket and sneakers lounges in a cozy café, epitomizing laid-back weekend style."
 },
 {
     "image_id": 117,
-    "image_catwgory": "Men clothing",
+    "image_category": "Men clothing",
     "image_url": "https://images.unsplash.com/photo-1617952236317-0bd127407984?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "image_description": "A man in a sleek black suit and polished shoes stands confidently in a modern office lobby, exuding professionalism."
 },
@@ -131,73 +131,73 @@
 },
 {
     "image_id": 119,
-    "image_catwgory": "Programming",
+    "image_category": "Programming",
     "image_url": "https://images.unsplash.com/photo-1715532846480-32461d5698ca?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "image_description": "A man in a tailored blazer and slim-fit trousers walks through a historic city square, blending classic and contemporary."
 },
 {
     "image_id": 120,
-    "image_catwgory": "Programming",
+    "image_category": "Programming",
     "image_url": "https://images.unsplash.com/photo-1580657018950-c7f7d6a6d990?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "image_description": "A man in a graphic t-shirt and cargo pants stands in an urban alley, embracing streetwear culture."
 },
 {
     "image_id": 121,
-    "image_catwgory": "Programming",
+    "image_category": "Programming",
     "image_url": "https://images.unsplash.com/photo-1602810318660-d2c46b750f88?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "image_description": "A man in a tailored suit and pocket square stands in a grand ballroom, epitomizing formal elegance."
 },
 {
     "image_id": 122,
-    "image_catwgory": "Programming",
+    "image_category": "Programming",
     "image_url": "https://images.unsplash.com/photo-1716369786499-22d29031021b?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "image_description": "A man in a tailored suit and pocket square stands in a grand ballroom, epitomizing formal elegance."
 },
 {
     "image_id": 123,
-    "image_catwgory": "Men clothing",
+    "image_category": "Men clothing",
     "image_url": "https://images.unsplash.com/photo-1532543149533-f0ed72f555c3?q=80&w=1365&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "image_description": "A man in a graphic t-shirt and cargo pants stands in an urban alley, embracing streetwear culture."
 },
 {
     "image_id": 124,
-    "image_catwgory": "Men clothing",
+    "image_category": "Men clothing",
     "image_url": "https://images.unsplash.com/photo-1532543149533-f0ed72f555c3?q=80&w=1365&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "image_description": "A man in a tailored suit and tie stands on a rooftop at sunset, embodying modern sophistication."
 },
 {
     "image_id": 125,
-    "image_catwgory": "Men clothing",
+    "image_category": "Men clothing",
     "image_url": "https://images.unsplash.com/photo-1662986788552-5172fa393e94?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "image_description": "A man in a bomber jacket and boots walks through a rain-soaked city street, exuding rugged charm."
 },
 {
     "image_id": 126,
-    "image_catwgory": "Men clothing",
+    "image_category": "Men clothing",
     "image_url": "https://images.unsplash.com/photo-1519743670471-034311358429?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "image_description": "A man in a tailored suit and pocket square stands in a grand ballroom, epitomizing formal elegance."
 },
 {
     "image_id": 127,
-    "image_catwgory": "Men clothing",
+    "image_category": "Men clothing",
     "image_url": "https://images.unsplash.com/photo-1666112514265-a432cd607ce1?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "image_description": "A man in a tailored suit and tie stands on a rooftop at sunset, embodying modern sophistication."
 },
 {
     "image_id": 128,
-    "image_catwgory": "Men clothing",
+    "image_category": "Men clothing",
     "image_url": "https://images.unsplash.com/photo-1611312449408-fcece27cdbb7?q=80&w=1338&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "image_description": "A man in a bomber jacket and boots walks through a rain-soaked city street, exuding rugged charm."
 },
 {
     "image_id": 129,
-    "image_catwgory": "Men clothing",
+    "image_category": "Men clothing",
     "image_url": "https://images.unsplash.com/photo-1660486044177-45cd45bb5e99?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "image_description": "A man in a tailored suit and dress shoes stands in an art gallery, exuding contemporary sophistication.​"
 },
 {
     "image_id": 130,
-    "image_catwgory": "Men clothing",
+    "image_category": "Men clothing",
     "image_url": "https://images.unsplash.com/photo-1602810316498-ab67cf68c8e1?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "image_description": "A man in a casual denim jacket and boots stands on a mountain trail, embracing rugged outdoor fashion."
 }
