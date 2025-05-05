@@ -79,7 +79,7 @@
 
 {
     "image_id": 111,
-    "image_catwgory": "Men clothing",
+    "image_category": "Men clothing",
     "image_url": "https://images.unsplash.com/photo-1743877428891-7b05eb7b4444?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "image_description": "A man in a sleek black suit and polished shoes stands confidently in a modern office lobby, exuding professionalism."
 },
@@ -125,7 +125,7 @@
 },
 {
     "image_id": 118,
-    "image_catwgory": "Men clothing",
+    "image_category": "Men clothing",
     "image_url": "https://images.unsplash.com/photo-1715532846484-1b10ddf694d0?q=80&w=1527&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "image_description": "A man in a tailored blazer and slim-fit trousers walks through a historic city square, blending classic and contemporary."
 },
